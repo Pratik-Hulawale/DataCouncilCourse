@@ -1,0 +1,72 @@
+.bo{
+    background-color: rgb(65, 52, 74);
+    color: white;
+}
+
+.bgmain{
+    display: flex;
+    width: 200px;
+    height: 400px;
+    background-color: black;
+    margin: auto;
+    border-radius: 20px;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.circle{
+    width: 100px;
+    height: 80px;
+}
+.red{
+    background-color: red;
+    justify-content: center;
+    border-radius: 100%;
+}
+.yellow{
+    background-color: yellow;
+    justify-content: center;
+    border-radius: 100%;
+}
+.green{
+    background-color: green;
+    justify-content: center;
+    border-radius: 100%;
+}
+
+.noactive1{
+    /* background-color: black; */
+    justify-content: center;
+    border-radius: 100%;
+    color: wheat;
+}
+.noactive2{
+    /* background-color: black; */
+    justify-content: center;
+    border-radius: 100%;
+}
+.noactive3{
+    /* background-color: black; */
+    justify-content: center;
+    border-radius: 100%;
+}
+.noactive{
+    background-color: black;
+    justify-content: center;
+    border-radius: 100%;
+}
+
+button{
+    width: 150px;
+    height: 70px;
+    font-size: 24px;
+    text-transform: capitalize;
+}
+
+.bt{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 50px;
+}
